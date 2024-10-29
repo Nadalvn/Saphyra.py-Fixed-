@@ -16,8 +16,8 @@ A complex python code to DDoS any website with a very easy usage.
 
     $ git clone https://github.com/Nadalvn/Saphyra.py-Fixed-
 
-    $ cd Saphyra-DDoS
-
+    $ cd Saphyra.py-Fixed-
+    
     $ chmod +x saphyra.py
 
     $ python saphyra.py
