@@ -40,21 +40,7 @@ Try
 
     $ python saphyra.py https://example.com
 
+#Credit
 
-
-# Disclaimer :
-
-Please use this code at your own risk and NEVER TRY IT ON A WEBSITE YOU DON'T HAVE PERMISSION FROM 
-
-I REPEAT NEVER.
-
-
-
-# Wish me LUCK💵
-https://www.buymeacoffee.com/anonymous24x7
-
-
-https://imjo.in/QzaYw6    --INR Payments ONLY
-
-
-🖤🖤🖤
+Code fixed by Nadalvn
+Original code from anonymous24x7
