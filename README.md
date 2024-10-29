@@ -40,7 +40,8 @@ Try
 
     $ python saphyra.py https://example.com
 
-#Credit
+# Credit
 
 Code fixed by Nadalvn
+
 Original code from anonymous24x7
